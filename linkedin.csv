@@ -1,76 +1,51 @@
-company,title
-Riverty,Marketing Data Analyst (m/f/d)
-Native Instruments,Data Analyst - Digital Marketing (all genders)
-LIQID,Quantitative Analyst - Marketing (d/m/w)
-LIQID,Quantitative Analyst - Marketing (d/m/w)
-BWI GmbH,Data Analyst / Controller Business Intelligence (m/w/d)
-hello.de,Werkstudent/ Praktikant - Business Intelligence | Reporting | Business Analysis
-Sunday Natural - We are hiring!,Analyst / Digital Marketing Manager - Market Intelligence (all genders)
-GetYourGuide,Senior Data Analyst / Applied Scientist (Brand Marketing)
-Coca-Cola Europacific Partners,Digital Performance Marketing Analyst (m/w/d)
-Appen,Search Engine Analyst
-TechBiz Global,Business Analyst
-Coherent Corp.,Business Analyst / Controller (m/f/x)
-Marco Sigismund,Analyst / Digital Marketing Manager - Market Intelligence (all genders)
-Universal Music Deutschland,(Senior) CRM Data Analyst - D2C (all genders)
-AUTO1 Group,Performance Analyst SEO (f/m/x)
-Sunday Natural - We are hiring!,Senior CRM Automation & Data insights Specialist
-Formlabs,Senior Marketing Analyst (w/m/d)
-Formlabs,Senior Marketing Analyst (w/m/d)
-orderbird,(Senior) Marketing & Sales Analyst (d/w/m)
-Deutsche Rentenversicherung Bund,Businessanalyst*in (m/w/div)
-zeb consulting,IT Architekt / Business Data Analyst (w|m|d)
-Hashtag You,Data & Analytics Senior Manager (m/f/x)
-Peak Ace AG,Senior Digital Analyst (m/w/d)
-Marco Sigismund,Senior CRM Automation & Data insights Specialist
-GotPhoto.com | fotograf.de,Marketing Analyst (f/m/d)
-flaconi,Senior Marketing Analyst (all genders)
-Universal Music Deutschland,(Senior) CRM Data Analyst - D2C (all genders) - Marketing Labs – Universal Music GmbH
-Moyyn,Business Analyst (m/w/d)-43_CL_27_2
-Vestas,Business Analyst (f/m/d)
-Coherent Corp.,Business Analyst (m/w/d)
-TechBiz Global,"Business Analyst (Berlin, Hybrid)"
-Amadeus FiRe,Senior Digital Analyst (m/w/d)
-Amaris Consulting,Business Analyst
-Avaloq,Business Analyst - Accounting
-Avaloq,Business Analyst - Credit
-DEVK Versicherungen,Duales Studium BWL/Versicherung B.A.
-Cobblestone Energy,"BUSINESS ANALYST - DUBAI, UAE"
-Lufthansa Industry Solutions,Business Analyst (all genders) Digitalisierung
-Empiric,Avaloq Business Analyst (ACP)
-Airbus,Business Analyst & Application Architect (m/w/d)
-InterEx Group,D365 F&O Business Analyst (SCM)
-Mazars in Germany,Werkstudent Business Analysis Smart Automation (all genders)
-Avaloq,Business Analyst - Legal Reporting Germany
-IBM,Business Analysts P&C (f/m/x)
-CBTW,Business Analyst (M/W/D)
-Deutsche Rentenversicherung Bund,Business Analyst (m/w/div)
-CBTW,Business Analyst (M/W/D)
-Verivox GmbH,Business Analyst Value Added Services (m/w/d)
-BearingPoint,Marketing & Communications Analyst (m/w/d)
-Capgemini Engineering,Business Analyst - Fintech & Public (w/m/d)
-Sanofi,Manager*in Market Research & Business Analytics
-EY,Berater Technology Business Analysis - Technology Transformation (w/m/d)
-CBTW,Business Analyst (M/W/D)
-HelloFresh,"Business Analyst, Procurement (f/m/x)"
-mgm technology partners,Business Analyst für die Modellierung von Web Applikationen (m/w/d)
-Avaloq,Business Analyst - Tax
-Capgemini Engineering,Business Analyst (w/m/d)
-Deloitte,Business Analyst / Consultant Cloud Integration (m/w/d)
-IU International University of Applied Sciences,Duales Studium BWL (B.A.) am Campus oder online
-nexnet GmbH,Business Analyst (m/w/d)
-Universal Music Deutschland,Product & Marketing Analyst (all genders) – Marketing Labs – Universal Music GmbH
-BearingPoint,Business Analyst Strategy & Digital Transformation | Energiewirtschaft (m/w/d) in Berlin
-DKB | Deutsche Kreditbank AG,Business Analyst OSPlus
-publicplan GmbH,Business Analyst (m/w/d) - 100% remote
-AOK Systems GmbH,Sozial­ver­si­che­rungs­fach­an­ge­stellte als Business Analyst (m/w/d) Schwerpunkt Telematik
-Vodafone,"Duales Studium B.A. BWL, mit Schwerpunkt Digital Innovation in Berlin (2024)"
-Gesellschaft zur Verwertung von Leistungsschutzrechten mbH,Business Analyst (m/w/d)
-home24 SE,Performance Marketing Manager SEA – Deutsch (m/w/d)
-]init[ - Services for the eSociety,Agile Business Analyst (m/w/d)
-a&o Hostels,Duales Studium - B.A. Tourismusmanagement (m/w/d)
-50Hertz Transmission GmbH,Business Analystin Digitalisierung Netzausbau (m/w/d)
-]init[ - Services for the eSociety,Agile Business Analyst (m/w/d)
-msg for banking ag,Business Analyst / Banking (m/w/d)
-DIGITALL,Dynamics 365 Business Analyst
-BearingPoint,Business Analyst Telecommunications & Digital Strategy (m/w/d) in Berlin
+id,company,title
+1,Lacoste,"Buyer, Footwear and Leather Goods"
+2,Condé Nast,Executive Assistant
+3,City of Boston,Human Resources Assistant
+4,Hopper,Fraud Operations Analyst (100% Remote)
+5,Supermercados Cidade Canção,"?REPOSITOR(A) DE FRUTAS, LEGUMES E VERDURAS"
+6,Citywire,Media Sales Executive
+7,Aux Talent,Human Resources Generalist
+8,Sabra Dipping Company,"Senior Director, Financial Planning & Analysis"
+9,Sierra Club,Recruiter
+10,NHS Borders,Clinical Education Preceptor
+11,"FPC of Greensboro, NC",Supply Chain Manager
+12,UCLA Health,"Front Office Admin Support - Primary and Specialty Care, Montecito"
+13,UCLA Health,RN - Westwood OR Surgery Center
+14,City of Boston,Intern I
+15,Lombardo Homes,Assistant Controller
+16,Corient,Executive Assistant
+17,Refined Hospitality Group,Crew Lead
+18,Laurel Healthcare,Admissions Coordinator
+19,SlingShot ConnectionS,Receptionist
+20,Motion Recruitment,Marketing Coordinator
+21,Denver Public Library,Chief Equity & Strategy Officer
+22,Bose Corporation,Data Scientist
+23,UCLA Health,"Patient Service Representative - Primary Care, Marina del Rey"
+24,Asante,RN - Resource Team (Critical Care)
+25,Lockheed Martin,F-35 Crew Chief
+26,Asante,RN - Resource Team (Critical Care)
+27,Lockheed Martin,F-35 Crew Chief
+28,City of Boston,Library Aide
+29,"Brookside Properties, Inc.",General Consideration
+30,The Counseling Center,Administrative Assistant
+31,Candid,Marketing Manager
+32,Vinart Dealerships,Receptionist - Lehigh Valley Hyundai
+33,TruFit Staffing,General Laborer
+34,HighCloud Solutions,Bioinformatician
+35,City of Boston,Assistant Events Coordinator
+36,BL Harbert International LLC,Assistant Superintendent (ASSIS002672)
+37,Washington Commanders,Inside Sales Representative
+38,City of Boston,Chief Of Staff
+39,City of Boston,Office Manager
+40,Curate Partners,Healthcare Project Manager
+41,The Colored Girls Museum,Social Media Manager
+42,JLB,Event Services Manager
+43,Roper St. Francis Healthcare,MD Receptionist
+44,CEdge Inc.,Office Administrator
+45,UNC Health Blue Ridge,Patient Care Assistant
+46,UNC Health Blue Ridge,Patient Care Assistant
+47,Access Healthcare Services,Executive Administrative Assistant
+48,City of Boston,Chief of Staff
+49,The Social Agency,Creative Assistant
+50,City of Boston,Program Coordinator
