@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "2830",
+      "data": {
+        "label": "Linux"
+      },
+      "position": {
+        "x": 944,
+        "y": 589
+      }
+    },
+    {
+      "id": "2866",
+      "data": {
+        "label": "DevOps"
+      },
+      "position": {
+        "x": 762,
+        "y": 189
+      }
+    },
+    {
+      "id": "2884",
+      "data": {
+        "label": "Unix"
+      },
+      "position": {
+        "x": 1134,
+        "y": 587
+      }
+    },
+    {
+      "id": "2892",
+      "data": {
+        "label": "Scripting"
+      },
+      "position": {
+        "x": 839,
+        "y": 797
+      }
+    },
+    {
+      "id": "3048",
+      "data": {
+        "label": "Keep Learning"
+      },
+      "position": {
+        "x": 835,
+        "y": 3197
+      }
+    },
+    {
+      "id": "3057",
+      "data": {
+        "label": "Web Servers"
+      },
+      "position": {
+        "x": 353,
+        "y": 932
+      }
+    },
+    {
+      "id": "3066",
+      "data": {
+        "label": "Editors"
+      },
+      "position": {
+        "x": 641,
+        "y": 797
+      }
+    }
+  ]
+}
