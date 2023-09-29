@@ -5,8 +5,8 @@
       "label": "Front-end"
     },
     "position": {
-      "x": 900,
-      "y": 100
+      "x": "0",
+      "y": "0"
     }
   },
   {
@@ -15,8 +15,8 @@
       "label": "For resources and other roadmaps"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "18",
+      "y": "19"
     }
   },
   {
@@ -25,8 +25,8 @@
       "label": "Are you just getting started?"
     },
     "position": {
-      "x": 900,
-      "y": 500
+      "x": "18",
+      "y": "92"
     }
   },
   {
@@ -35,8 +35,8 @@
       "label": "Personal Recommendation / Opinion"
     },
     "position": {
-      "x": 900,
-      "y": 400
+      "x": "59",
+      "y": "21"
     }
   },
   {
@@ -45,8 +45,8 @@
       "label": "I wouldn't recommend"
     },
     "position": {
-      "x": 900,
-      "y": 500
+      "x": "59",
+      "y": "118"
     }
   },
   {
@@ -55,8 +55,8 @@
       "label": "Order in roadmap not strict (Learn anytime)"
     },
     "position": {
-      "x": 900,
-      "y": 700
+      "x": "60",
+      "y": "86"
     }
   },
   {
@@ -65,8 +65,8 @@
       "label": "Alternative Option - Pick this or purple"
     },
     "position": {
-      "x": 900,
-      "y": 1000
+      "x": "59",
+      "y": "54"
     }
   },
   {
@@ -75,8 +75,8 @@
       "label": "Internet"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "57",
+      "y": "13"
     }
   },
   {
@@ -85,8 +85,8 @@
       "label": "How does the internet work?"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "38",
+      "y": "12"
     }
   },
   {
@@ -95,8 +95,8 @@
       "label": "What is HTTP?"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "90",
+      "y": "12"
     }
   },
   {
@@ -105,8 +105,8 @@
       "label": "Browsers and how they work?"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "34",
+      "y": "12"
     }
   },
   {
@@ -115,8 +115,8 @@
       "label": "DNS and how it works?"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "59",
+      "y": "12"
     }
   },
   {
@@ -125,8 +125,8 @@
       "label": "What is Domain Name?"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "55",
+      "y": "12"
     }
   },
   {
@@ -135,8 +135,8 @@
       "label": "What is hosting?"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "74",
+      "y": "12"
     }
   },
   {
@@ -145,8 +145,8 @@
       "label": "HTML"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "69",
+      "y": "12"
     }
   },
   {
@@ -155,8 +155,8 @@
       "label": "Learn the basics"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "62",
+      "y": "12"
     }
   },
   {
@@ -165,8 +165,8 @@
       "label": "Writing Semantic HTML"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "34",
+      "y": "12"
     }
   },
   {
@@ -175,8 +175,8 @@
       "label": "Forms and Validations"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "43",
+      "y": "12"
     }
   },
   {
@@ -185,8 +185,8 @@
       "label": "Accessibility"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "78",
+      "y": "12"
     }
   },
   {
@@ -195,8 +195,8 @@
       "label": "SEO Basics"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "82",
+      "y": "12"
     }
   },
   {
@@ -205,8 +205,8 @@
       "label": "CSS"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "76",
+      "y": "14"
     }
   },
   {
@@ -215,8 +215,8 @@
       "label": "Making Layouts"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "36",
+      "y": "11"
     }
   },
   {
@@ -225,8 +225,8 @@
       "label": "Learn the basics"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "37",
+      "y": "12"
     }
   },
   {
@@ -235,8 +235,8 @@
       "label": "Responsive Design"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "26",
+      "y": "12"
     }
   },
   {
@@ -245,8 +245,8 @@
       "label": "JavaScript"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "64",
+      "y": "13"
     }
   },
   {
@@ -255,8 +255,8 @@
       "label": "Learn the Basics"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "75",
+      "y": "11"
     }
   },
   {
@@ -265,8 +265,8 @@
       "label": "Learn DOM Manipulation"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "41",
+      "y": "11"
     }
   },
   {
@@ -275,8 +275,8 @@
       "label": "Fetch API / Ajax (XHR)"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "53",
+      "y": "11"
     }
   },
   {
@@ -285,8 +285,8 @@
       "label": "Version Control Systems"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "28",
+      "y": "12"
     }
   },
   {
@@ -295,8 +295,8 @@
       "label": "VCS Hosting"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "72",
+      "y": "12"
     }
   },
   {
@@ -305,8 +305,8 @@
       "label": "Git"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "32",
+      "y": "52"
     }
   },
   {
@@ -315,8 +315,8 @@
       "label": "GitHub"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "43",
+      "y": "13"
     }
   },
   {
@@ -325,8 +325,8 @@
       "label": "Bitbucket"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "36",
+      "y": "12"
     }
   },
   {
@@ -335,8 +335,8 @@
       "label": "GitLab"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "43",
+      "y": "12"
     }
   },
   {
@@ -345,8 +345,8 @@
       "label": "Web Security Basics"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "36",
+      "y": "12"
     }
   },
   {
@@ -355,8 +355,8 @@
       "label": "CORS"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "305",
+      "y": "11"
     }
   },
   {
@@ -365,8 +365,8 @@
       "label": "HTTPS"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "40",
+      "y": "12"
     }
   },
   {
@@ -375,8 +375,8 @@
       "label": "Content Security Policy"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "41",
+      "y": "12"
     }
   },
   {
@@ -385,8 +385,8 @@
       "label": "OWASP Security Risks"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "44",
+      "y": "12"
     }
   },
   {
@@ -395,8 +395,8 @@
       "label": "Package Managers"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "31",
+      "y": "14"
     }
   },
   {
@@ -405,8 +405,8 @@
       "label": "npm"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "49",
+      "y": "12"
     }
   },
   {
@@ -415,8 +415,8 @@
       "label": "yarn"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "50",
+      "y": "12"
     }
   },
   {
@@ -425,8 +425,8 @@
       "label": "pnpm"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "45",
+      "y": "12"
     }
   },
   {
@@ -435,8 +435,8 @@
       "label": "CSS Preprocessors"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "33",
+      "y": "12"
     }
   },
   {
@@ -445,8 +445,8 @@
       "label": "PostCSS"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "39",
+      "y": "12"
     }
   },
   {
@@ -455,8 +455,8 @@
       "label": "Sass"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "50",
+      "y": "12"
     }
   },
   {
@@ -465,8 +465,8 @@
       "label": "CSS Architecture"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "22",
+      "y": "12"
     }
   },
   {
@@ -475,8 +475,8 @@
       "label": "BEM"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "53",
+      "y": "12"
     }
   },
   {
@@ -485,8 +485,8 @@
       "label": "Pick a Framework"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "36",
+      "y": "14"
     }
   },
   {
@@ -495,8 +495,8 @@
       "label": "React"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "56",
+      "y": "12"
     }
   },
   {
@@ -505,8 +505,8 @@
       "label": "Angular"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "49",
+      "y": "12"
     }
   },
   {
@@ -515,8 +515,8 @@
       "label": "Vue.js"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "58",
+      "y": "12"
     }
   },
   {
@@ -525,8 +525,8 @@
       "label": "Svelte"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "58",
+      "y": "12"
     }
   },
   {
@@ -535,8 +535,8 @@
       "label": "Solid JS"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "58",
+      "y": "12"
     }
   },
   {
@@ -545,8 +545,8 @@
       "label": "Writing CSS"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "44",
+      "y": "13"
     }
   },
   {
@@ -555,8 +555,8 @@
       "label": "Tailwind"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "49",
+      "y": "11"
     }
   },
   {
@@ -565,8 +565,8 @@
       "label": "Radix UI"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "44",
+      "y": "12"
     }
   },
   {
@@ -575,618 +575,8 @@
       "label": "Shadcn UI"
     },
     "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1356-1",
-    "data": {
-      "label": "We have trimmed down the CSS part for the sake of brevity."
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1356-2",
-    "data": {
-      "label": "However, I would recommend reading about {color:purple}CSS in JS{color}, "
-    },
-    "position": {
-      "x": 900,
-      "y": 300
-    }
-  },
-  {
-    "id": "1356-3",
-    "data": {
-      "label": "{color:purple}CSS Modules{color}, {color:purple}Styled Components{color}, {color:purple}Vanilla Extract{color}, {color:purple}Panda CSS{color}"
-    },
-    "position": {
-      "x": 900,
-      "y": 400
-    }
-  },
-  {
-    "id": "1356-4",
-    "data": {
-      "label": "and look into different frameworks with pre-built components"
-    },
-    "position": {
-      "x": 900,
-      "y": 500
-    }
-  },
-  {
-    "id": "1356-5",
-    "data": {
-      "label": "such as {color:blue}MUI{color}, {color:purple}daisyUI{color}, {color:purple}Chakra UI{color} and {color:purple}Mantine{color}."
-    },
-    "position": {
-      "x": 900,
-      "y": 600
-    }
-  },
-  {
-    "id": "1372-1",
-    "data": {
-      "label": "Linters and Formatters"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1373-1",
-    "data": {
-      "label": "Prettier"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1374-1",
-    "data": {
-      "label": "ESLint"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1376-1",
-    "data": {
-      "label": "Build Tools"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1377-1",
-    "data": {
-      "label": "Task Runners"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1378-1",
-    "data": {
-      "label": "npm scripts"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1379-0",
-    "data": {
-      "label": "Webpack"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1379-2",
-    "data": {
-      "label": "Webpack"
-    },
-    "position": {
-      "x": 900,
-      "y": 300
-    }
-  },
-  {
-    "id": "1380-0",
-    "data": {
-      "label": "Rollup"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1380-2",
-    "data": {
-      "label": "Rollup"
-    },
-    "position": {
-      "x": 900,
-      "y": 300
-    }
-  },
-  {
-    "id": "1381-0",
-    "data": {
-      "label": "Parcel"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1381-2",
-    "data": {
-      "label": "Parcel"
-    },
-    "position": {
-      "x": 900,
-      "y": 300
-    }
-  },
-  {
-    "id": "1382-1",
-    "data": {
-      "label": "Module Bundlers"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1383-0",
-    "data": {
-      "label": "Webpack"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1383-2",
-    "data": {
-      "label": "esbuild"
-    },
-    "position": {
-      "x": 900,
-      "y": 300
-    }
-  },
-  {
-    "id": "1384-0",
-    "data": {
-      "label": "Parcel"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1384-2",
-    "data": {
-      "label": "Vite"
-    },
-    "position": {
-      "x": 900,
-      "y": 300
-    }
-  },
-  {
-    "id": "1389-1",
-    "data": {
-      "label": "Jest"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1390-1",
-    "data": {
-      "label": "Cypress"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1391-1",
-    "data": {
-      "label": "Playwright"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1400-1",
-    "data": {
-      "label": "Testing your Apps"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1401-1",
-    "data": {
-      "label": "Vitest"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1418-1",
-    "data": {
-      "label": "Authentication Strategies"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1418-2",
-    "data": {
-      "label": "JWT, OAuth, SSO, Basic Auth, Session Auth etc"
-    },
-    "position": {
-      "x": 900,
-      "y": 300
-    }
-  },
-  {
-    "id": "1420-1",
-    "data": {
-      "label": "Qwik"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1428-1",
-    "data": {
-      "label": "Web Components"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1429-1",
-    "data": {
-      "label": "HTML Templates"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1430-1",
-    "data": {
-      "label": "Custom Elements"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1431-1",
-    "data": {
-      "label": "Shadow DOM"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1435-1",
-    "data": {
-      "label": "Type Checkers"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1436-1",
-    "data": {
-      "label": "TypeScript"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1448-1",
-    "data": {
-      "label": "Server Side Rendering (SSR)"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1449-1",
-    "data": {
-      "label": "React"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1450-1",
-    "data": {
-      "label": "Next.js"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1451-1",
-    "data": {
-      "label": "Angular"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1452-1",
-    "data": {
-      "label": "Universal"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1453-1",
-    "data": {
-      "label": "Vue.js"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1454-1",
-    "data": {
-      "label": "Nuxt.js"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1455-1",
-    "data": {
-      "label": "Remix"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1456-1",
-    "data": {
-      "label": "Svelte"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1457-1",
-    "data": {
-      "label": "Svelte Kit"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1519-1",
-    "data": {
-      "label": "Apollo"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1520-1",
-    "data": {
-      "label": "GraphQL"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1521-1",
-    "data": {
-      "label": "Relay Modern"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1529-1",
-    "data": {
-      "label": "Progressive Web Apps"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1531-0",
-    "data": {
-      "label": "Service Workers"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1532-0",
-    "data": {
-      "label": "Storage"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1533-0",
-    "data": {
-      "label": "Location"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1534-0",
-    "data": {
-      "label": "Notifications"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1535-0",
-    "data": {
-      "label": "Device Orientation"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1536-0",
-    "data": {
-      "label": "Payments"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1537-0",
-    "data": {
-      "label": "Credentials"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1538-0",
-    "data": {
-      "label": "Web Sockets"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1543-0",
-    "data": {
-      "label": "Server Sent Events"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1545-0",
-    "data": {
-      "label": "PRPL Pattern"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
-    }
-  },
-  {
-    "id": "1546-0",
-    "data": {
-      "label": "RAIL Model"
-    },
-    "position": {
-      "x": 900,
-      "y": 100
+      "x": "38",
+      "y": "12"
     }
   },
   {
@@ -1195,8 +585,8 @@
       "label": "Performance Metrics"
     },
     "position": {
-      "x": 900,
-      "y": 100
+      "x": "0",
+      "y": "0"
     }
   },
   {
@@ -1205,8 +595,8 @@
       "label": "Using Lighthouse"
     },
     "position": {
-      "x": 900,
-      "y": 100
+      "x": "0",
+      "y": "0"
     }
   },
   {
@@ -1215,8 +605,8 @@
       "label": "Using DevTools"
     },
     "position": {
-      "x": 900,
-      "y": 100
+      "x": "0",
+      "y": "0"
     }
   },
   {
@@ -1225,8 +615,8 @@
       "label": "Performance Best Practices"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "23",
+      "y": "11"
     }
   },
   {
@@ -1235,8 +625,8 @@
       "label": "Static Site Generators"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "75",
+      "y": "12"
     }
   },
   {
@@ -1245,8 +635,8 @@
       "label": "Next.js"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "45",
+      "y": "8"
     }
   },
   {
@@ -1255,8 +645,8 @@
       "label": "Nuxt.js"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "55",
+      "y": "8"
     }
   },
   {
@@ -1265,8 +655,8 @@
       "label": "Vuepress"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "49",
+      "y": "8"
     }
   },
   {
@@ -1275,8 +665,8 @@
       "label": "Jekyll"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "61",
+      "y": "8"
     }
   },
   {
@@ -1285,8 +675,8 @@
       "label": "Hugo"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "61",
+      "y": "8"
     }
   },
   {
@@ -1295,8 +685,8 @@
       "label": "Eleventy"
     },
     "position": {
-      "x": 900,
-      "y": 400
+      "x": "41",
+      "y": "8"
     }
   },
   {
@@ -1305,8 +695,8 @@
       "label": "Remix"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "49",
+      "y": "8"
     }
   },
   {
@@ -1315,8 +705,8 @@
       "label": "Astro"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "54",
+      "y": "8"
     }
   },
   {
@@ -1325,8 +715,8 @@
       "label": "Mobile Applications"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "30",
+      "y": "12"
     }
   },
   {
@@ -1335,8 +725,8 @@
       "label": "React Native"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "23",
+      "y": "8"
     }
   },
   {
@@ -1345,8 +735,8 @@
       "label": "NativeScript"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "27",
+      "y": "8"
     }
   },
   {
@@ -1355,8 +745,8 @@
       "label": "Flutter"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "47",
+      "y": "8"
     }
   },
   {
@@ -1365,8 +755,8 @@
       "label": "Ionic"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "54",
+      "y": "8"
     }
   },
   {
@@ -1375,8 +765,8 @@
       "label": "Desktop Applications"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "47",
+      "y": "12"
     }
   },
   {
@@ -1385,8 +775,8 @@
       "label": "Electron"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "73",
+      "y": "8"
     }
   },
   {
@@ -1395,8 +785,8 @@
       "label": "Tauri"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "83",
+      "y": "8"
     }
   },
   {
@@ -1405,38 +795,11 @@
       "label": "Flutter"
     },
     "position": {
-      "x": 900,
-      "y": 200
+      "x": "78",
+      "y": "8"
     }
   },
-  {
-    "id": "1600-1",
-    "data": {
-      "label": "Bonus Content"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1603-1",
-    "data": {
-      "label": "Node.js Roadmap"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  },
-  {
-    "id": "1604-1",
-    "data": {
-      "label": "TypeScript Roadmap"
-    },
-    "position": {
-      "x": 900,
-      "y": 200
-    }
-  }
+
+
+
 ]
