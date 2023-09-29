@@ -1,74 +1,1442 @@
-{
-  "nodes": [
-    {
-      "id": "2830",
-      "data": {
-        "label": "Linux"
-      },
-      "position": {
-        "x": 944,
-        "y": 589
-      }
+[
+  {
+    "id": "1234-0",
+    "data": {
+      "label": "Front-end"
     },
-    {
-      "id": "2866",
-      "data": {
-        "label": "DevOps"
-      },
-      "position": {
-        "x": 762,
-        "y": 189
-      }
-    },
-    {
-      "id": "2884",
-      "data": {
-        "label": "Unix"
-      },
-      "position": {
-        "x": 1134,
-        "y": 587
-      }
-    },
-    {
-      "id": "2892",
-      "data": {
-        "label": "Scripting"
-      },
-      "position": {
-        "x": 839,
-        "y": 797
-      }
-    },
-    {
-      "id": "3048",
-      "data": {
-        "label": "Keep Learning"
-      },
-      "position": {
-        "x": 835,
-        "y": 3197
-      }
-    },
-    {
-      "id": "3057",
-      "data": {
-        "label": "Web Servers"
-      },
-      "position": {
-        "x": 353,
-        "y": 932
-      }
-    },
-    {
-      "id": "3066",
-      "data": {
-        "label": "Editors"
-      },
-      "position": {
-        "x": 641,
-        "y": 797
-      }
+    "position": {
+      "x": 900,
+      "y": 100
     }
-  ]
-}
+  },
+  {
+    "id": "1235-1",
+    "data": {
+      "label": "For resources and other roadmaps"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1235-4",
+    "data": {
+      "label": "Are you just getting started?"
+    },
+    "position": {
+      "x": 900,
+      "y": 500
+    }
+  },
+  {
+    "id": "1236-3",
+    "data": {
+      "label": "Personal Recommendation / Opinion"
+    },
+    "position": {
+      "x": 900,
+      "y": 400
+    }
+  },
+  {
+    "id": "1236-4",
+    "data": {
+      "label": "I wouldn't recommend"
+    },
+    "position": {
+      "x": 900,
+      "y": 500
+    }
+  },
+  {
+    "id": "1236-6",
+    "data": {
+      "label": "Order in roadmap not strict (Learn anytime)"
+    },
+    "position": {
+      "x": 900,
+      "y": 700
+    }
+  },
+  {
+    "id": "1236-9",
+    "data": {
+      "label": "Alternative Option - Pick this or purple"
+    },
+    "position": {
+      "x": 900,
+      "y": 1000
+    }
+  },
+  {
+    "id": "1239-1",
+    "data": {
+      "label": "Internet"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1240-1",
+    "data": {
+      "label": "How does the internet work?"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1241-1",
+    "data": {
+      "label": "What is HTTP?"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1242-1",
+    "data": {
+      "label": "Browsers and how they work?"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1243-1",
+    "data": {
+      "label": "DNS and how it works?"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1244-1",
+    "data": {
+      "label": "What is Domain Name?"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1245-1",
+    "data": {
+      "label": "What is hosting?"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1254-1",
+    "data": {
+      "label": "HTML"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1255-1",
+    "data": {
+      "label": "Learn the basics"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1256-1",
+    "data": {
+      "label": "Writing Semantic HTML"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1257-1",
+    "data": {
+      "label": "Forms and Validations"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1259-1",
+    "data": {
+      "label": "Accessibility"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1260-1",
+    "data": {
+      "label": "SEO Basics"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1266-1",
+    "data": {
+      "label": "CSS"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1267-1",
+    "data": {
+      "label": "Making Layouts"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1268-1",
+    "data": {
+      "label": "Learn the basics"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1269-1",
+    "data": {
+      "label": "Responsive Design"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1275-1",
+    "data": {
+      "label": "JavaScript"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1276-1",
+    "data": {
+      "label": "Learn the Basics"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1277-1",
+    "data": {
+      "label": "Learn DOM Manipulation"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1279-1",
+    "data": {
+      "label": "Fetch API / Ajax (XHR)"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1282-1",
+    "data": {
+      "label": "Version Control Systems"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1284-1",
+    "data": {
+      "label": "VCS Hosting"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1285-1",
+    "data": {
+      "label": "Git"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1288-1",
+    "data": {
+      "label": "GitHub"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1289-1",
+    "data": {
+      "label": "Bitbucket"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1290-1",
+    "data": {
+      "label": "GitLab"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1293-1",
+    "data": {
+      "label": "Web Security Basics"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1295-1",
+    "data": {
+      "label": "CORS"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1296-1",
+    "data": {
+      "label": "HTTPS"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1297-1",
+    "data": {
+      "label": "Content Security Policy"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1298-1",
+    "data": {
+      "label": "OWASP Security Risks"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1307-1",
+    "data": {
+      "label": "Package Managers"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1308-1",
+    "data": {
+      "label": "npm"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1309-1",
+    "data": {
+      "label": "yarn"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1310-1",
+    "data": {
+      "label": "pnpm"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1318-1",
+    "data": {
+      "label": "CSS Preprocessors"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1320-1",
+    "data": {
+      "label": "PostCSS"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1321-1",
+    "data": {
+      "label": "Sass"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1323-1",
+    "data": {
+      "label": "CSS Architecture"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1324-1",
+    "data": {
+      "label": "BEM"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1330-1",
+    "data": {
+      "label": "Pick a Framework"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1331-1",
+    "data": {
+      "label": "React"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1332-1",
+    "data": {
+      "label": "Angular"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1333-1",
+    "data": {
+      "label": "Vue.js"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1334-1",
+    "data": {
+      "label": "Svelte"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1335-1",
+    "data": {
+      "label": "Solid JS"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1339-1",
+    "data": {
+      "label": "Writing CSS"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1346-1",
+    "data": {
+      "label": "Tailwind"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1347-1",
+    "data": {
+      "label": "Radix UI"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1348-1",
+    "data": {
+      "label": "Shadcn UI"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1356-1",
+    "data": {
+      "label": "We have trimmed down the CSS part for the sake of brevity."
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1356-2",
+    "data": {
+      "label": "However, I would recommend reading about {color:purple}CSS in JS{color}, "
+    },
+    "position": {
+      "x": 900,
+      "y": 300
+    }
+  },
+  {
+    "id": "1356-3",
+    "data": {
+      "label": "{color:purple}CSS Modules{color}, {color:purple}Styled Components{color}, {color:purple}Vanilla Extract{color}, {color:purple}Panda CSS{color}"
+    },
+    "position": {
+      "x": 900,
+      "y": 400
+    }
+  },
+  {
+    "id": "1356-4",
+    "data": {
+      "label": "and look into different frameworks with pre-built components"
+    },
+    "position": {
+      "x": 900,
+      "y": 500
+    }
+  },
+  {
+    "id": "1356-5",
+    "data": {
+      "label": "such as {color:blue}MUI{color}, {color:purple}daisyUI{color}, {color:purple}Chakra UI{color} and {color:purple}Mantine{color}."
+    },
+    "position": {
+      "x": 900,
+      "y": 600
+    }
+  },
+  {
+    "id": "1372-1",
+    "data": {
+      "label": "Linters and Formatters"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1373-1",
+    "data": {
+      "label": "Prettier"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1374-1",
+    "data": {
+      "label": "ESLint"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1376-1",
+    "data": {
+      "label": "Build Tools"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1377-1",
+    "data": {
+      "label": "Task Runners"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1378-1",
+    "data": {
+      "label": "npm scripts"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1379-0",
+    "data": {
+      "label": "Webpack"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1379-2",
+    "data": {
+      "label": "Webpack"
+    },
+    "position": {
+      "x": 900,
+      "y": 300
+    }
+  },
+  {
+    "id": "1380-0",
+    "data": {
+      "label": "Rollup"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1380-2",
+    "data": {
+      "label": "Rollup"
+    },
+    "position": {
+      "x": 900,
+      "y": 300
+    }
+  },
+  {
+    "id": "1381-0",
+    "data": {
+      "label": "Parcel"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1381-2",
+    "data": {
+      "label": "Parcel"
+    },
+    "position": {
+      "x": 900,
+      "y": 300
+    }
+  },
+  {
+    "id": "1382-1",
+    "data": {
+      "label": "Module Bundlers"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1383-0",
+    "data": {
+      "label": "Webpack"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1383-2",
+    "data": {
+      "label": "esbuild"
+    },
+    "position": {
+      "x": 900,
+      "y": 300
+    }
+  },
+  {
+    "id": "1384-0",
+    "data": {
+      "label": "Parcel"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1384-2",
+    "data": {
+      "label": "Vite"
+    },
+    "position": {
+      "x": 900,
+      "y": 300
+    }
+  },
+  {
+    "id": "1389-1",
+    "data": {
+      "label": "Jest"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1390-1",
+    "data": {
+      "label": "Cypress"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1391-1",
+    "data": {
+      "label": "Playwright"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1400-1",
+    "data": {
+      "label": "Testing your Apps"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1401-1",
+    "data": {
+      "label": "Vitest"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1418-1",
+    "data": {
+      "label": "Authentication Strategies"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1418-2",
+    "data": {
+      "label": "JWT, OAuth, SSO, Basic Auth, Session Auth etc"
+    },
+    "position": {
+      "x": 900,
+      "y": 300
+    }
+  },
+  {
+    "id": "1420-1",
+    "data": {
+      "label": "Qwik"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1428-1",
+    "data": {
+      "label": "Web Components"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1429-1",
+    "data": {
+      "label": "HTML Templates"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1430-1",
+    "data": {
+      "label": "Custom Elements"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1431-1",
+    "data": {
+      "label": "Shadow DOM"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1435-1",
+    "data": {
+      "label": "Type Checkers"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1436-1",
+    "data": {
+      "label": "TypeScript"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1448-1",
+    "data": {
+      "label": "Server Side Rendering (SSR)"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1449-1",
+    "data": {
+      "label": "React"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1450-1",
+    "data": {
+      "label": "Next.js"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1451-1",
+    "data": {
+      "label": "Angular"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1452-1",
+    "data": {
+      "label": "Universal"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1453-1",
+    "data": {
+      "label": "Vue.js"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1454-1",
+    "data": {
+      "label": "Nuxt.js"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1455-1",
+    "data": {
+      "label": "Remix"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1456-1",
+    "data": {
+      "label": "Svelte"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1457-1",
+    "data": {
+      "label": "Svelte Kit"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1519-1",
+    "data": {
+      "label": "Apollo"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1520-1",
+    "data": {
+      "label": "GraphQL"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1521-1",
+    "data": {
+      "label": "Relay Modern"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1529-1",
+    "data": {
+      "label": "Progressive Web Apps"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1531-0",
+    "data": {
+      "label": "Service Workers"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1532-0",
+    "data": {
+      "label": "Storage"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1533-0",
+    "data": {
+      "label": "Location"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1534-0",
+    "data": {
+      "label": "Notifications"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1535-0",
+    "data": {
+      "label": "Device Orientation"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1536-0",
+    "data": {
+      "label": "Payments"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1537-0",
+    "data": {
+      "label": "Credentials"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1538-0",
+    "data": {
+      "label": "Web Sockets"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1543-0",
+    "data": {
+      "label": "Server Sent Events"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1545-0",
+    "data": {
+      "label": "PRPL Pattern"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1546-0",
+    "data": {
+      "label": "RAIL Model"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1547-0",
+    "data": {
+      "label": "Performance Metrics"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1548-0",
+    "data": {
+      "label": "Using Lighthouse"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1549-0",
+    "data": {
+      "label": "Using DevTools"
+    },
+    "position": {
+      "x": 900,
+      "y": 100
+    }
+  },
+  {
+    "id": "1554-1",
+    "data": {
+      "label": "Performance Best Practices"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1555-1",
+    "data": {
+      "label": "Static Site Generators"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1557-1",
+    "data": {
+      "label": "Next.js"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1558-1",
+    "data": {
+      "label": "Nuxt.js"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1559-1",
+    "data": {
+      "label": "Vuepress"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1560-1",
+    "data": {
+      "label": "Jekyll"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1561-1",
+    "data": {
+      "label": "Hugo"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1562-3",
+    "data": {
+      "label": "Eleventy"
+    },
+    "position": {
+      "x": 900,
+      "y": 400
+    }
+  },
+  {
+    "id": "1563-1",
+    "data": {
+      "label": "Remix"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1564-1",
+    "data": {
+      "label": "Astro"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1573-1",
+    "data": {
+      "label": "Mobile Applications"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1574-1",
+    "data": {
+      "label": "React Native"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1575-1",
+    "data": {
+      "label": "NativeScript"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1576-1",
+    "data": {
+      "label": "Flutter"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1577-1",
+    "data": {
+      "label": "Ionic"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1581-1",
+    "data": {
+      "label": "Desktop Applications"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1582-1",
+    "data": {
+      "label": "Electron"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1583-1",
+    "data": {
+      "label": "Tauri"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1584-1",
+    "data": {
+      "label": "Flutter"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1600-1",
+    "data": {
+      "label": "Bonus Content"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1603-1",
+    "data": {
+      "label": "Node.js Roadmap"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  },
+  {
+    "id": "1604-1",
+    "data": {
+      "label": "TypeScript Roadmap"
+    },
+    "position": {
+      "x": 900,
+      "y": 200
+    }
+  }
+]
